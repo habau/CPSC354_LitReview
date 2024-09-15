@@ -79,3 +79,13 @@ Declarative languages like HTML and domain-specific languages (DSLs) have enable
 As we look ahead, the development of more powerful programming tools, integrated with HCI principles, will play a pivotal role in shaping the future of accessible technology. With further collaboration between subfields of programming languages and advances in assistive technologies, we can expect more immersive and universally accessible systems that enhance the digital experience for all users.
 
 The coupling of programming languages and HCI creates opportunities to push the boundaries of what is possible in terms of accessibility, ultimately improving the quality of life for people with disabilities and fostering a more inclusive digital world.
+
+## References
+
+1. Shneiderman, Ben. *Universal Usability*. [Link to Google Scholar](https://scholar.google.com/scholar?q=universal+usability+by+ben+shneiderman)
+2. Raman, T.V. *Accessible Voice Interfaces*. [Link to Google Scholar](https://scholar.google.com/scholar?q=accessible+voice+interfaces+by+t.v.+raman)
+3. World Wide Web Consortium (W3C). *Web Content Accessibility Guidelines (WCAG) 2.1*. [Link to WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+4. Benyon, David. *Designing Interactive Systems: A Comprehensive Guide to HCI, UX, and Interaction Design*. [Link to Google Scholar](https://scholar.google.com/scholar?q=Designing+Interactive+Systems+by+David+Benyon)
+5. JAWS - Freedom Scientific. [JAWS Official Website](https://www.freedomscientific.com/products/software/jaws/)
+6. ISM UNIV. *Creating Immersive AR and VR Experiences with Python and Unity*. [Link to Blog](https://www.ismuniv.com/blog/creating-immersive-ar-and-vr-experiences-with-python-and-unity/)
+7. OpenCV. *Open Source Computer Vision Library*. [OpenCV Official Website](https://opencv.org/)
